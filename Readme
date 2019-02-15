@@ -1,0 +1,12 @@
+# MSMDSoil-moisture-meter
+ MajorDomo MySensor Soil-moisture-meter
+
+# Technical Specification
+Arduino IDE 1.6.x compatible
+Internal power supply 1x AAA
+ATSHA204A on board (connected to A3). Used for HMAC-SHA256 message authentication support
+SMD radio module NRF24
+Humidity sensor made in the form of two plates on the PCB
+Micro USB formfactor program connector UART
+Reset button
+Inclusion button
